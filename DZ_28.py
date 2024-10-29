@@ -85,3 +85,8 @@ create_notes_from_youtube_video(
     "https://www.youtube.com/watch?v=h12JVB-wcoQ",
     model_size="small" 
 )
+""" 
+audio.aac
+
+https://drive.google.com/file/d/1EY7YiGGVogjCpvDCICKQ1L8t-piP6EH3/view?usp=drive_link
+"""
